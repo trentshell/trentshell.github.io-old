@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {:refdef: style="text-align: center;"}
-<img alt="headshot" class="margin: 0 auto; display: block;" src="/images/headshot.jpeg" width="200" />
+<img alt="headshot" class="margin: 0 auto; display: block;" src="/assets/img/headshot.jpeg" width="200" />
 {: refdef}
 
 Welcome to my site!
