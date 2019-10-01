@@ -16,12 +16,10 @@
 title: Trent Shell
 email: trent@trentshell.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Musings and amusements from my mind to yours
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://trentshell.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trentpshell
-rss: "RSS Feed"
-#github_username:  trentshell
+rss: rss
 google_analytics: UA-148956665-1
 
 # Build settings

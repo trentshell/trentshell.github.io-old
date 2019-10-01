@@ -7,7 +7,7 @@ categories: education
 
 > I cannot imagine a classical school where classical books are not taught, but there are simply so many great books in the Western canon that they all cannot be read. The fear of leaving someone or something out sadly prompts many classical schools to veer off into a survey approach, where little bits and pieces of many classics are read, but none in full.
 
-via [5 Common Misconceptions About Classical Education | Circe Institute](https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education)
+via [5 Common Misconceptions About Classical Education](https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education)
 
 In his most recent article for Circe Institute, Joshua Gibbs highlights an excellent point that resonates with my own experience.
 
