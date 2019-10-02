@@ -2,7 +2,7 @@
 layout: post
 title: "The Uber Accident's Impact"
 date: "2018-04-21"
-categories: technology
+categories: linked
 link: https://www.bagpipeonline.com/opinions/2018/4/19/uber-accidents-impact
 ---
 

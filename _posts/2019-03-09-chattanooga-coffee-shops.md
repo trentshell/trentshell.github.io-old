@@ -2,7 +2,6 @@
 layout: post
 title: "Chattanooga Coffee Shops"
 date: "2019-03-09"
-categories: coffee, chattanooga
 ---
 
 I've been living in the Chattanooga area to go to school for nearly four years, now, and I'm intending on staying for much longer to start working full-time doing software development and help out at my [church](https://crbchattanooga.org). One of my favorite parts of living in this city has been trying out the many local coffee shops. They serve many purposes in my life: for studying, for dates, for meetings, and even for local events. Some locations excel in one specific area, which makes for great diversity. Here are some of my top shops, in no particular order.
