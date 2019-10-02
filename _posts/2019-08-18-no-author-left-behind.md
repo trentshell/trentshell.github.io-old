@@ -3,13 +3,12 @@ layout: post
 title: "No Author Left Behind"
 date: "2019-08-18"
 categories: education
+link: https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education
 ---
 
+In his most recent article for Circe Institute, Joshua Gibbs highlights an excellent point on teaching Western literature that resonates with my own experience.
+
 > I cannot imagine a classical school where classical books are not taught, but there are simply so many great books in the Western canon that they all cannot be read. The fear of leaving someone or something out sadly prompts many classical schools to veer off into a survey approach, where little bits and pieces of many classics are read, but none in full.
-
-via [5 Common Misconceptions About Classical Education](https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education)
-
-In his most recent article for Circe Institute, Joshua Gibbs highlights an excellent point that resonates with my own experience.
 
 At my alma mater (a Christian 4-year liberal arts college), all students are required to take two semesters of a class entitled "Cultural Heritage of the West," or "CHOW" for short. This class was essentially a crash-course in the major developments in Western culture from Gilgamesh all the way up to Marx. Most of the reading material from this class was exactly in the manner that Mr. Gibbs describes here: A short excerpt from every major work of each time period, and sometimes up to two or three assigned authors before each lecture.
 

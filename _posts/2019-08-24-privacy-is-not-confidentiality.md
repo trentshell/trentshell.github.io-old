@@ -2,12 +2,11 @@
 layout: post
 title: "Privacy Is Not Confidentiality"
 date: "2019-08-24"
+link: https://freedom-to-tinker.com/2019/08/23/deconstructing-googles-excuses-on-tracking-protection
 categories: technology
 ---
 
 > Blocking cookies is bad for privacy. That’s the new disingenuous argument from Google, trying to justify why Chrome is so far behind Safari and Firefox in offering privacy protections. As researchers who have spent over a decade studying web tracking and online advertising, we want to set the record straight. Our high-level points are: 1) Cookie blocking does not undermine web privacy. Google’s claim to the contrary is privacy gaslighting. 2) There is little trustworthy evidence on the comparative value of tracking-based advertising. 3) Google has not devised an innovative way to balance privacy and advertising; it is latching onto prior approaches that it previously disclaimed as impractical. 4) Google is attempting a punt to the web standardization process, which will at best result in years of delay.
-
-via [Deconstructing Google’s excuses on tracking protection](https://freedom-to-tinker.com/2019/08/23/deconstructing-googles-excuses-on-tracking-protection/)
 
 Here is a clearly-argued takedown of Google's position on web-tracking in Chrome. I think that it really highlights a key point that Google seems to either be missing or, perhaps, intentionally misconstruing: whether privacy is the same as confidentiality.
 
