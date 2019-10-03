@@ -2,7 +2,6 @@
 layout: post
 title: "Open Source and Power"
 date: "2019-10-01"
-categories: linked
 link: https://m.signalvnoise.com/open-source-and-power-with-matt-mullenweg/
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Privacy Is Not Confidentiality"
 date: "2019-08-24"
-categories: linked
 link: https://freedom-to-tinker.com/2019/08/23/deconstructing-googles-excuses-on-tracking-protection
 ---
 

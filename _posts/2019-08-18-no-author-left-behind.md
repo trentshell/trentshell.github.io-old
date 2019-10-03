@@ -2,7 +2,6 @@
 layout: post
 title: "No Author Left Behind"
 date: "2019-08-18"
-categories: linked
 link: https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education
 ---
 
