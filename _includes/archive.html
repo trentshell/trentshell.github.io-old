@@ -1,5 +1,14 @@
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
 <nav class="menu browse by-year text-center">
+
+   <strong>Search site:</strong>
+<form method="get" action="http://www.google.com/search" target="_blank">
+<input type="hidden" name="sitesearch" value="trentshell.com" />
+<input type="text" name="q" maxlength="255" placeholder="Search with Google" />
+</form>
+<br>
+
    <strong>Jump to:</strong>
    {% for year in postsByYear %}
    <a href="#{{ year.name }}"><span class="visually-hidden">jump to posts from</span>{{ year.name }}</a>
@@ -10,8 +19,7 @@
 <h3 id="{{ year.name }}">{{ year.name }}</h3>
 <ul aria-label="posts from {{ year.name }}">
    {% for post in year.items %}
-   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-   <span class="post-meta">{{ post.date | date: date_format }}</span>
+   <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span>
    <li>
       <div class="post-header">
          <h3 class="post-title">
