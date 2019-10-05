@@ -2,10 +2,9 @@
 layout: post
 title: "No Author Left Behind"
 date: "2019-08-18"
-link: https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education
 ---
 
-In his most recent article for Circe Institute, Joshua Gibbs highlights an excellent point on teaching Western literature that resonates with my own experience.
+[In his most recent article for Circe Institute](https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education), Joshua Gibbs highlights an excellent point on teaching Western literature that resonates with my own experience.
 
 > I cannot imagine a classical school where classical books are not taught, but there are simply so many great books in the Western canon that they all cannot be read. The fear of leaving someone or something out sadly prompts many classical schools to veer off into a survey approach, where little bits and pieces of many classics are read, but none in full.
 
