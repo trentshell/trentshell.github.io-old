@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-{:refdef: style="text-align: center;"}
-<img alt="headshot" class="margin: 0 auto; display: block;" src="/assets/img/headshot.jpeg" width="200" />
-{: refdef}
-
 Welcome to my site!
 I'm Trent Shell, an IT professional living in the Chattanooga, Tennessee area.
 
