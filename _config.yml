@@ -20,8 +20,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://trentshell.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _TrentShell
 pinboard_username: tshell
+facebook_username: mr.tshell
+linkedin_username: tshell 
 rss: RSS
-google_analytics: UA-148956665-1
 
 # Build settings
 markdown: kramdown
