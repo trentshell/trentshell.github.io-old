@@ -16,3 +16,7 @@ A few details about me:
 - I'm a Christian with Reformed convictions. I'm a member and deacon of [Christ Reformed Baptist Church](https://crbchattanooga.org) in Lookout Mountain.
 
 Feel free to reach out to me if have any questions, comments, or thoughts. My email address is [trent@trentshell.com](mailto:trent@trentshell.com).
+
+**Colophon**
+
+Posts are written and edited in [BBEdit](https://www.barebones.com/products/bbedit/). This site is generated using [Jekyll](https://jekyllrb.com) with the [Minima theme](https://github.com/jekyll/minima) and statically hosted on [GitHub pages](https://github.com/trentshell/trentshell.github.io).
