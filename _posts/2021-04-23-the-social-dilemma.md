@@ -3,6 +3,7 @@ layout: post
 title: "The Social Dilemma"
 date: "2021-04-23"
 categories: tech reviews movies
+redirect_to: https://pinboard.in/u:tshell/notes/f7f38fcb3e4ba8cfb240
 ---
 
 Finished "[The Social Dilemma](https://www.thesocialdilemma.com/the-film/)" on Netflix the other night. A few thoughts:

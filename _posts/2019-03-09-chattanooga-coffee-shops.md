@@ -2,6 +2,7 @@
 layout: post
 title: "Chattanooga Coffee Shops"
 date: "2019-03-09"
+redirect_to: https://pinboard.in/u:tshell/notes/f080d6800d65da51e4a4
 ---
 Here are some of my favorite Chattanoogan coffee shops, in no particular order.
 
