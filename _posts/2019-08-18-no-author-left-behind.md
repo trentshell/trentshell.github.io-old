@@ -3,7 +3,6 @@ layout: post
 title: "No Author Left Behind"
 date: "2019-08-18"
 categories: education
-redirect_to: https://pinboard.in/u:tshell/notes/ce4cc70c28f58e7d1b1c
 ---
 
 [In his most recent article for Circe Institute](https://www.circeinstitute.org/blog/5-common-misconceptions-about-classical-education), Joshua Gibbs highlights an excellent point on teaching Western literature that resonates with my own experience.
