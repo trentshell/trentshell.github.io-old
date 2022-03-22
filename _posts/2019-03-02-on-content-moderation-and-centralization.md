@@ -3,7 +3,6 @@ layout: post
 title: "On Content Moderation and Centralization"
 date: "2019-03-02"
 categories: tech facebook 
-redirect_to: https://pinboard.in/u:tshell/notes/6a8ea53b5d1eb5500a60
 ---
 
 Casey Newton at The Verge wrote a lengthy piece last week entitled "[The Secret Lives of Facebook Moderators in America](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)" which documents the horrors that content moderators face on a daily basis. It's worth reading if for nothing else than gaining an understanding of how traumatic and serious the job is. Be warned that it contains descriptions of the real things these people face: the worst side of humanity posted to the world's biggest social network.
