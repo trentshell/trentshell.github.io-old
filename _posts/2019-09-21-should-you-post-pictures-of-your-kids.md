@@ -3,7 +3,6 @@ layout: post
 title: "Should You Post Pictures of Your Kids?"
 date: "2019-09-21"
 categories: tech parenting
-redirect_to: https://pinboard.in/u:tshell/notes/6e224f247ca908ddd00a
 ---
 
 I think nearly everyone has somewhat embarrassing pictures of themselves from their childhood. This didn't use to be such a pressing issue, but in our digital age with many parents broadcasting (sometimes not-so-flattering) images of their children for the world to see, it seems worthwhile to stop and consider the ramifications.
