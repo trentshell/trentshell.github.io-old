@@ -2,7 +2,6 @@
 layout: post
 title: "Privacy Is Not Confidentiality"
 date: "2019-08-24"
-redirect_to: https://pinboard.in/u:tshell/notes/47a800119da47ac15fcd
 ---
 [Here is a clearly-argued takedown of Google's position on web-tracking in Chrome.](https://freedom-to-tinker.com/2019/08/23/deconstructing-googles-excuses-on-tracking-protection) 
 
