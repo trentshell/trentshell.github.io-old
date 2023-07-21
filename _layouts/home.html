@@ -1,41 +1,14 @@
 ---
 layout: default
 ---
-<div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-  {{ content }}
-  <ul class="post-list">
-    {%- for post in paginator.posts -%}
-    <li>
-      <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span>
-      <div class="post-header">
-        <h3 class="post-title">
-          <a href="{{ post.url }}">{{ post.title | escape }}</a>
-        </h3>
-      </div>
-      <div class="post-content e-content" itemprop="articleBody">
-        {{ post.content }}
-      </div>
-    </li>
-    <hr>
-    {%- endfor -%}
-  </ul>
-  
-</div>
+<div>
 
+  <p>Hello,</p>
+  <p>I’m a software developer, techie, and family man living in the Midwest. Welcome to Statically Typed, my personal site. This is a place to house my occasional writing, links, and projects.</p>
+  <p>For my work experience and CV, please take a look at my LinkedIn profile.</p> 
+  <p>For all other inquiries or to just say “Hi”, feel free to <a href="mailto:trent@trentshell.com">email me</a>.</p>
+  <p>I’m also on <a href="http://twitter.com/trentpshell">Twitter</a> and <a rel="me" href="https://mastodon.social/@trentshell">Mastodon</a>, if you’d like to follow me elsewhere.</p>
+  <p>Thanks for stopping by!</p>
+  <p>—Trent</p>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
-  {% else %}
-    <span class="hidden">Previous</span>
-  {% endif %}
-  <span class="page_number ">&emsp;Page {{ paginator.page }} of {{ paginator.total_pages }}&emsp;</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="next"> Next</a>
-  {% else %}
-    <span class="hidden "> Next</span>
-  {% endif %}
 </div>
