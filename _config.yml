@@ -30,6 +30,7 @@ plugins:
     
 minima:
   date_format: "%B %-d, %Y"
+  skin: auto
   
 permalink: /:year/:month/:day/:title
 paginate: 10
